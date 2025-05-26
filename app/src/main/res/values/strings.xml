@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pofile</string>
+    <string name="profile">Profile</string>
+    <string name="support">support</string>
+    <string name="andaz_kumar">andaz Kumar</string>
+    <string name="member_since">member since Dec, 2020</string>
+    <string name="get_to_know_vehicles">get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="credit_score">credit score</string>
+    <string name="refresh_available">REFRESH AVAILABLE</string>
+    <string name="credit_score_value">757</string>
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="cashback_amount">₹3</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="check">check</string>
+    <string name="your_rewards_benefits">YOUR REWARDS &amp; BENEFITS</string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="cashback_balance_amount">₹0</string>
+    <string name="coins">coins</string>
+    <string name="coins_amount">26,46,583</string>
+    <string name="win_upto">win upto Rs 1000</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="transactions_support">TRANSACTIONS &amp; SUPPORT</string>
+    <string name="all_transactions">all transactions</string>
+</resources>
